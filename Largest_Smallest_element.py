@@ -1,3 +1,8 @@
+"""
+Largest and Smallest Element:
+Write a function to find the largest and smallest elements in a given list.
+"""
+
 def largest(Given_list):
     print(max(Given_list))
 def smallest(Given_list):
